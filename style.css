@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    background-color: #D3D3D3;
+  }
+h1{
+    background-color: #007bff;
+}
+.imagen-pequena {
+    max-width: 60%; /* Establece el ancho máximo deseado */
+    height: auto; /* Deja que la altura se ajuste automáticamente */
+    display: block; /* Para asegurar que la imagen se comporte como un bloque */
+    margin: auto; /* Esto centra la imagen horizontalmente */
+}
